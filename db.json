@@ -1,9 +1,10 @@
 {
-  miron: {
-    bot:'rofl'
+  "miron": {
+    "bot": "rofl"
   },
-  tubolov: {
-    baza:'rofl',
-    v-celom:'roflina'
+  "tubolov": {
+    "baza": "rofl",
+    "v-celom": "roflina"
   }
 }
+
